@@ -1,0 +1,101 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://schoehuys.github.io/exemple-gillieron-maxine/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Lettre dactylographiée de M. SACCI et deux brouillons de lettres rédigés par E. Gilliéron",
+    "@language" : "fra, ger"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "EFA",
+  "sequences" : [ {
+    "@id" : "http://17bf343d-3815-49ab-9967-557964a1b0c7",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://2a49b346-d46a-4332-b44b-35815f515a25",
+      "@type" : "sc:Canvas",
+      "label" : "A_19000507_p001",
+      "height" : 3508,
+      "width" : 2479,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://433edbea-4291-4439-851b-d062557e5ccf",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://schoehuys.github.io/exemple-gillieron-maxine/images/A_19000507_p001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://schoehuys.github.io/exemple-gillieron-maxine/images/A_19000507_p001",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3508,
+          "width" : 2479
+        },
+        "on" : "http://2a49b346-d46a-4332-b44b-35815f515a25"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e9aaae38-905e-4257-8167-16fa92b2837d",
+      "@type" : "sc:Canvas",
+      "label" : "A_19000507_p002",
+      "height" : 3508,
+      "width" : 2479,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://861fbef6-4b37-4053-b1ab-f5473a9dff78",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://schoehuys.github.io/exemple-gillieron-maxine/images/A_19000507_p002/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://schoehuys.github.io/exemple-gillieron-maxine/images/A_19000507_p002",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3508,
+          "width" : 2479
+        },
+        "on" : "http://e9aaae38-905e-4257-8167-16fa92b2837d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://72470a57-601f-4782-b74b-4ced63214e81",
+      "@type" : "sc:Canvas",
+      "label" : "A_129000507_p003",
+      "height" : 3508,
+      "width" : 2479,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1aa0fc58-be6a-417e-b3ca-9399a2f2b8c0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://schoehuys.github.io/exemple-gillieron-maxine/images/A_19000507_p003/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://schoehuys.github.io/exemple-gillieron-maxine/images/A_19000507_p003",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3508,
+          "width" : 2479
+        },
+        "on" : "http://72470a57-601f-4782-b74b-4ced63214e81"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
