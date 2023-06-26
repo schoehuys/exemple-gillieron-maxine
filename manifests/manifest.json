@@ -2,14 +2,14 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://schoehuys.github.io/exemple-gillieron-maxine/manifests/manifest.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "A_19000507",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Lettre dactylographiée de M. SACCI et deux brouillons de lettres rédigés par E. Gilliéron",
     "@language" : "fra, ger"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "EFA",
+  "attribution" : "Ecole Française d'Athènes",
   "sequences" : [ {
     "@id" : "http://17bf343d-3815-49ab-9967-557964a1b0c7",
     "@type" : "sc:Sequence",
