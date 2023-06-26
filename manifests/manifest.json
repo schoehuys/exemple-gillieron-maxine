@@ -94,8 +94,24 @@
         },
         "on" : "http://72470a57-601f-4782-b74b-4ced63214e81"
       } ],
-      "related" : ""
-    } ]
-  } ],
+      "otherContent": [
+						{
+							"@id": "https://schoehuys.github.io/exemple-gillieron-maxine/annotations/A_19000507_p001_annotationList.json",
+							"@type": "sc:AnnotationList",
+							"label": "A_19000507_p001_ratio_to_1"
+						},
+        {
+							"@id": "https://schoehuys.github.io/exemple-gillieron-maxine/annotations/A_19000507_p002_annotationList.json",
+							"@type": "sc:AnnotationList",
+							"label": "A_19000507_p002_ratio_to_1"
+						},
+        {
+							"@id": "https://schoehuys.github.io/exemple-gillieron-maxine/annotations/A_19000507_p003_annotationList.json",
+							"@type": "sc:AnnotationList",
+							"label": "A_19000507_p003_ratio_to_1"
+						}
+					]
+				  } ]
+				}],
   "structures" : [ ]
 }
