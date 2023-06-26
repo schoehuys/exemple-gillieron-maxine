@@ -1,0 +1,13 @@
+{
+  "id" : "https://schoehuys.github.io/exemple-gillieron-maxine/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in schoehuys/exemple-gillieron-maxine project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://schoehuys.github.io/exemple-gillieron-maxine/manifests/manifest.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
