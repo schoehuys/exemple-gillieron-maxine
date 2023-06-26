@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://schoehuys.github.io/exemple-gillieron-maxine/annotations/A_19000507_p001_annotationList.json" ],
+  "otherContent" : [ "https://schoehuys.github.io/exemple-gillieron-maxine/annotations/A_19000507_p001_annotationList.json", "https://schoehuys.github.io/exemple-gillieron-maxine/annotations/A_19000507_p002_annotationList.json" ],
   "@id" : "https://schoehuys.github.io/exemple-gillieron-maxine/annotations/collection.json",
   "label" : "All annotations loaded in schoehuys/exemple-gillieron-maxine project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
