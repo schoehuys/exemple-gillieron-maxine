@@ -42,7 +42,13 @@
         },
         "on" : "http://2a49b346-d46a-4332-b44b-35815f515a25"
       } ],
-      "related" : ""
+      "otherContent": [
+						{
+							"@id": "https://schoehuys.github.io/exemple-gillieron-maxine/annotations/A_19000507_p001_annotationList.json",
+							"@type": "sc:AnnotationList",
+							"label": "A_19000507_p001_ratio_to_1"
+						}
+					]
     }, {
       "@id" : "http://e9aaae38-905e-4257-8167-16fa92b2837d",
       "@type" : "sc:Canvas",
@@ -68,7 +74,13 @@
         },
         "on" : "http://e9aaae38-905e-4257-8167-16fa92b2837d"
       } ],
-      "related" : ""
+      "otherContent": [
+						{
+							"@id": "https://schoehuys.github.io/exemple-gillieron-maxine/annotations/A_19000507_p002_annotationList.json",
+							"@type": "sc:AnnotationList",
+							"label": "A_19000507_p002_ratio_to_1"
+						}
+					]
     }, {
       "@id" : "http://72470a57-601f-4782-b74b-4ced63214e81",
       "@type" : "sc:Canvas",
@@ -96,16 +108,6 @@
       } ],
       "otherContent": [
 						{
-							"@id": "https://schoehuys.github.io/exemple-gillieron-maxine/annotations/A_19000507_p001_annotationList.json",
-							"@type": "sc:AnnotationList",
-							"label": "A_19000507_p001_ratio_to_1"
-						},
-        {
-							"@id": "https://schoehuys.github.io/exemple-gillieron-maxine/annotations/A_19000507_p002_annotationList.json",
-							"@type": "sc:AnnotationList",
-							"label": "A_19000507_p002_ratio_to_1"
-						},
-        {
 							"@id": "https://schoehuys.github.io/exemple-gillieron-maxine/annotations/A_19000507_p003_annotationList.json",
 							"@type": "sc:AnnotationList",
 							"label": "A_19000507_p003_ratio_to_1"
